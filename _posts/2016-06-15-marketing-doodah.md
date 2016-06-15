@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Business Leadership & Innovation
-datePublished: '2016-06-15T16:19:27.612Z'
-dateModified: '2016-06-15T16:19:17.943Z'
+datePublished: '2016-06-15T16:23:56.448Z'
+dateModified: '2016-06-15T16:19:35.241Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-15-marketing-doodah.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-15-marketing-doodah.md
 url: marketing-doodah/index.html
 _type: Article
 
