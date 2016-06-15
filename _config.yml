@@ -1,0 +1,28 @@
+name: Alexander Consulting
+favicon: null
+layout_spectrum: 0.1274353766348213
+typography_spectrum: 0.4968355796299875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8109352658502758
+  lightness: 0.17474134801886976
+  saturation: 0.5760396828409284
+  rhythmicContrast: 0.9509317802730948
+purpose: []
